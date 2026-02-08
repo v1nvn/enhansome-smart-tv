@@ -151,7 +151,7 @@
             "last_commit": "2026-01-11T16:10:37Z",
             "owner": "reisxd",
             "repo": "TizenBrew",
-            "stars": 1175
+            "stars": 1176
           }
         },
         {
@@ -164,7 +164,7 @@
             "last_commit": "2026-02-04T20:56:46Z",
             "owner": "reisxd",
             "repo": "TizenTube",
-            "stars": 1423
+            "stars": 1424
           }
         }
       ],
@@ -201,7 +201,7 @@
             "last_commit": "2023-10-11T08:48:09Z",
             "owner": "hobbyquaker",
             "repo": "node-red-contrib-lgtv",
-            "stars": 60
+            "stars": 59
           }
         },
         {
@@ -516,10 +516,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:18:58.396Z",
+    "last_updated": "2026-02-08T04:33:09.367Z",
     "original_repository": "vitalets/awesome-smart-tv",
     "source_repository": "v1nvn/enhansome-smart-tv",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Smart TV with stars"
   }
 }
