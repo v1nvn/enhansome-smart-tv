@@ -1,4 +1,4 @@
-# Awesome Smart TV [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 436,352 | 🐛 69 | 📅 2026-01-28 with stars
+# Awesome Smart TV [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 436,589 | 🐛 68 | 📅 2026-01-28 with stars
 
 > A curated list of awesome resources for building Smart TV apps
 
@@ -51,8 +51,8 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 #### Other
 
-* \[TizenTube] (<https://github.com/reisxd/TizenTube> ⭐ 1,430 | 🐛 53 | 🌐 JavaScript | 📅 2026-02-04) - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
-* \[TizenBrew] (<https://github.com/reisxd/TizenBrew> ⭐ 1,183 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-11) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
+* \[TizenTube] (<https://github.com/reisxd/TizenTube> ⭐ 1,435 | 🐛 53 | 🌐 JavaScript | 📅 2026-02-04) - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
+* \[TizenBrew] (<https://github.com/reisxd/TizenBrew> ⭐ 1,186 | 🐛 15 | 🌐 JavaScript | 📅 2026-01-11) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
 * [Tizen Studio development references](https://github.com/claromes/tizenstudio) ⚠️ Archived - Documents focused on web apps for Smart TVs e Professional Monitors, based in personal researches.
 * [Identification of Samsung TV models 2008-2017](http://en.tab-tv.com/?page_id=7123) - How to get screen size, matrix type, year of development, series and other parameters from Samsung TV model name.
 
@@ -67,7 +67,7 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 
 #### Third-party remote control libraries
 
-* [homebridge-webos-tv](https://github.com/merdok/homebridge-webos-tv) ⭐ 696 | 🐛 31 | 🌐 JavaScript | 📅 2025-12-26 - A plugin for [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,210 | 🐛 10 | 🌐 TypeScript | 📅 2026-02-08 which allows you to control your webOS TV.
+* [homebridge-webos-tv](https://github.com/merdok/homebridge-webos-tv) ⭐ 696 | 🐛 32 | 🌐 JavaScript | 📅 2025-12-26 - A plugin for [Homebridge](https://github.com/nfarina/homebridge) ⭐ 25,210 | 🐛 10 | 🌐 TypeScript | 📅 2026-02-08 which allows you to control your webOS TV.
 * [LGWebOSRemote](https://github.com/klattimer/LGWebOSRemote) ⭐ 637 | 🐛 29 | 🌐 Python | 📅 2025-08-17 - Command line tool for webOS remote control of LG TVs (Python).
 * [lgtv2](https://github.com/hobbyquaker/lgtv2) ⭐ 340 | 🐛 24 | 🌐 JavaScript | 📅 2022-02-04 - Node.js module for remote control of LG webOS TV via WebSocket messages (JavaScript).
 * [PyWebOSTV](https://github.com/supersaiyanmode/PyWebOSTV) ⭐ 308 | 🐛 19 | 🌐 Python | 📅 2025-09-30 - A generic & entensible WebOS 3.0 Client Library (Python2, Python3).
